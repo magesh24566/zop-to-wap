@@ -1,0 +1,10 @@
+# Real secrets (client secret, refresh token, API key)
+config.ts
+
+# Runtime state and logs
+data/
+
+node_modules/
+.env*
+*.log
+*.tmp
